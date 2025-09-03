@@ -19,6 +19,7 @@ body {
     gap: 1em;
     padding: 1em;
     background-color: white;
+    border-radius: 5px;
 
 }
 .color-input {
@@ -109,4 +110,5 @@ option:checked {
     color: green;
     font-weight: bold;
     font-size: 1.1rem;
+
 }
